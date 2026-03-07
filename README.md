@@ -1,4 +1,4 @@
-# Arduino Pill Dispenser
+# 💊 💊 Arduino Pill Dispenser
 
 Automated pill dispender using Arduino, on 2 levels using only one stepper for rotation. Handles morning and evening medication schedules, displays time, and alerts the user with LED and buzzer.
 This is especially for elders, since taking medication can be a complex task for them
